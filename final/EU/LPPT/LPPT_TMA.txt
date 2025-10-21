@@ -16,7 +16,7 @@ magneticvar = -3.589
 
 
 beacons =
-#	LO, N38.85310, W9.09750, 0, Lisboa Lom
+#	LO, N38.85310, W9.09750, 0, Lisboa Lom 
 #	MIO, N38.70970, W9.04323, 0, Montijo
 #	MOJ, N38.70880, W9.03322, 0, Montijo
 #	LIS, N38.88940, W9.16278, 0, Lisboa
