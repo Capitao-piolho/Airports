@@ -1,7 +1,6 @@
 # This is Porto Francisco Sá Carneiro Airport
 # September 2025
 # By Miguel Sousa AKA @Leep_here on Discord
-#I hate myself for this, and it this airport isnt that big, someone give me tips :(
 
 #NEXT:
 #LPVL, vfr simulated routes(local circuits, routes to lpbr), and outbound vfr routes(viana do castelo, viseu and vila real as sids)
